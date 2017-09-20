@@ -1,5 +1,5 @@
 ## iOS-Useful-Libraries
 
-  - SUPER USEFUL for managing keyboard
+  - SUPER COOL framework for managing keyboard
 
   https://github.com/hackiftekhar/IQKeyboardManager
