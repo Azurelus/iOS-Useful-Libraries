@@ -11,3 +11,7 @@
   - A lot of custom components
 
   https://github.com/CosmicMind/Material
+  
+  - iOS library that generates and manages contextual cards displayed at the bottom of the screen. It is especially well suited for quick user interactions such as onboarding screens or configuration.
+  
+  https://github.com/alexaubry/BulletinBoard
