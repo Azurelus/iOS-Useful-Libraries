@@ -19,3 +19,7 @@
   - Library for building complex iOS UIView animations in an easy way.
   
   https://github.com/marcosgriselli/ViewAnimator
+
+  - Chatkit. Developer-driven chat done simply.
+  
+  https://pusher.com/chatkit
