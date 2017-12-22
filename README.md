@@ -1,8 +1,12 @@
 ## iOS-Useful-Libraries
 
-  - SUPER COOL framework for managing keyboard
+  - SUPER COOL framework for automatic managing keyboard
 
   https://github.com/hackiftekhar/IQKeyboardManager
+  
+  - RxKeyboard provides a reactive way of observing keyboard frame changes. Forget about keyboard notifications.
+  
+  https://github.com/RxSwiftCommunity/RxKeyboard
   
   -  Wtfautolayout is a site that helps you visualise the conflicting constraints in the logs by parsing them neatly.
   
@@ -23,3 +27,7 @@
   - Chatkit. Developer-driven chat done simply.
   
   https://pusher.com/chatkit
+
+  - Ease: event driven animation system
+  
+  https://github.com/roberthein/Ease
