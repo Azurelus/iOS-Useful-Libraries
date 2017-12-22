@@ -35,3 +35,7 @@
   - Swipeable UITableViewCell based on the stock Mail.app
   
   https://github.com/SwipeCellKit/SwipeCellKit
+  
+  - Extremely customizable and lightweight library that makes the task of displaying in app notification banners and drop down alerts an absolute breeze
+  
+  https://github.com/Daltron/NotificationBanner
