@@ -31,3 +31,7 @@
   - Ease: event driven animation system
   
   https://github.com/roberthein/Ease
+
+  - Swipeable UITableViewCell based on the stock Mail.app
+  
+  https://github.com/SwipeCellKit/SwipeCellKit
