@@ -39,3 +39,7 @@
   - Extremely customizable and lightweight library that makes the task of displaying in app notification banners and drop down alerts an absolute breeze
   
   https://github.com/Daltron/NotificationBanner
+  
+  - Reimagining UICollectionView
+  
+  https://github.com/SoySauceLab/CollectionKit
