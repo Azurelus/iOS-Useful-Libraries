@@ -43,3 +43,7 @@
   - Reimagining UICollectionView
   
   https://github.com/SoySauceLab/CollectionKit
+  
+  - Cool customizable alert picker (many options: email & pasword, countries, etc.)
+  
+  https://github.com/dillidon/Alerts-Pickers
