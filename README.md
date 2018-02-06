@@ -51,3 +51,7 @@
   - IBLinter
   
   https://github.com/kateinoigakukun/IBLinter
+  
+  - Online graphical text converter into NSAttributedString
+  
+  https://andresinaka.github.io/Transformer/
