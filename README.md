@@ -55,3 +55,7 @@
   - Online graphical text converter into NSAttributedString
   
   https://andresinaka.github.io/Transformer/
+  
+  - Hyperion plugins are designed to make inspection of your app quick and simple.
+  
+  https://github.com/willowtreeapps/Hyperion-iOS
