@@ -56,6 +56,6 @@
   
   https://andresinaka.github.io/Transformer/
   
-  - Hyperion plugins are designed to make inspection of your app quick and simple.
+  - Interesting plugins for quick and simple inspection and debugging on device.
   
   https://github.com/willowtreeapps/Hyperion-iOS
