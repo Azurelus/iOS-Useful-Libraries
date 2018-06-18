@@ -59,3 +59,7 @@
   - Interesting plugins for quick and simple inspection and debugging on device.
   
   https://github.com/willowtreeapps/Hyperion-iOS
+  
+  - Banner presenter library. It can be used to easily display pop-ups and notification-like views.
+  
+  https://github.com/huri000/SwiftEntryKit
